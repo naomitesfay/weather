@@ -1,0 +1,16 @@
+.image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  padding-top: 200px;
+}
+
+.container {
+  text-align: center;
+  font-family: sans-serif;
+}
+
+body {
+  background-color: #AEECEF
+}
